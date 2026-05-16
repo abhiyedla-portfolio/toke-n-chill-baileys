@@ -1,0 +1,8 @@
+# WhatsApp session — contains private keys, NEVER commit this
+auth_info/
+
+# Local environment variables — contains secrets
+.env
+
+# Dependencies
+node_modules/
